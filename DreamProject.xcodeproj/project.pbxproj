@@ -24,6 +24,7 @@
 		48889304233E395B004C0AD4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		48889307233E395B004C0AD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		48889309233E395B004C0AD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4888930F233E3973004C0AD4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		488892FA233E395A004C0AD4 /* DreamProject */ = {
 			isa = PBXGroup;
 			children = (
+				4888930F233E3973004C0AD4 /* README.md */,
 				488892FB233E395A004C0AD4 /* AppDelegate.swift */,
 				488892FD233E395A004C0AD4 /* SceneDelegate.swift */,
 				488892FF233E395A004C0AD4 /* ContentView.swift */,

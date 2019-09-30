@@ -41,6 +41,7 @@
 		488892EF233E395A004C0AD4 = {
 			isa = PBXGroup;
 			children = (
+				4888930F233E3973004C0AD4 /* README.md */,
 				488892FA233E395A004C0AD4 /* DreamProject */,
 				488892F9233E395A004C0AD4 /* Products */,
 			);
@@ -57,7 +58,6 @@
 		488892FA233E395A004C0AD4 /* DreamProject */ = {
 			isa = PBXGroup;
 			children = (
-				4888930F233E3973004C0AD4 /* README.md */,
 				488892FB233E395A004C0AD4 /* AppDelegate.swift */,
 				488892FD233E395A004C0AD4 /* SceneDelegate.swift */,
 				488892FF233E395A004C0AD4 /* ContentView.swift */,
